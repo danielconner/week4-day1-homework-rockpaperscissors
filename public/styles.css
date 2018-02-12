@@ -1,0 +1,13 @@
+body {
+  background-color: grey;
+  text-align: center;
+  color: black;
+}
+
+ul {
+  list-style: none;
+  font-weight: strong;
+  letter-spacing: 3px;
+  font-size: 25px;
+
+}
